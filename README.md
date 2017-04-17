@@ -1,4 +1,4 @@
-#TMK Configuration for Jameco JE1015
+# TMK Configuration for Jameco JE1015
 
 These are the [TMK](https://github.com/tmk/tmk_keyboard) configuration files, schematics, and general notes for a vintatge 1986 keyboard that has been reverse engineered and converted to USB using a Teensy 2.0 controller. I'm sharing them here in the hopes that they will be helpful for others attempting to convert vintage keyboards.
 
