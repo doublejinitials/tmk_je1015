@@ -41,7 +41,7 @@
 # Target file name (without extension).
 TARGET = jameco_je1015
 
-# Directory common source filess exist
+# Directory common source files exist
 TMK_DIR = ../tmk_keyboard/tmk_core
 
 # Directory keyboard dependent files exist
