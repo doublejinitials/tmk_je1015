@@ -31,7 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_ROWS 11
 #define MATRIX_COLS 8
 
-/* define if matrix has ghost */
+/* define if matrix has ghost (i.e. there are no diodes or other mechanism for NKRO) */
 #define MATRIX_HAS_GHOST
 
 /* Set 0 if debouncing isn't needed */
